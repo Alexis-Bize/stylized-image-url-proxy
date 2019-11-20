@@ -2,6 +2,8 @@
 
 **Notice:** This repository was made for my own needs on [Mixer.com](https://mixer.com/Zeny-IC) to create rounded images by passing squared ones and use them in my description.
 
+<img src="mixer-description-example.png" width="582" />
+
 This repository is deployed on now.sh. At the moment only "round" format is supported but feel free to fork this project or create a pull request if you need something else.
 
 # Usage
