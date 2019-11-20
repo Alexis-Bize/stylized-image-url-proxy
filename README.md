@@ -6,7 +6,7 @@ This repository is deployed on now.sh. At the moment only "round" format is supp
 
 # Usage
 
-**Domain:** https://stylized-image-url-proxy.alexis-bize.now.sh
+**Domain:** https://stylized-image-url-proxy.alexis-bize.now.sh<br />
 **Query parameters:**
 
 -   url {string}: Source image URL
@@ -17,4 +17,4 @@ https://stylized-image-url-proxy.alexis-bize.now.sh?url=https%3A%2F%2Fmixer.com%
 
 **Sample output:**
 
-<img src="sample-example.png" width="320" />
+<img src="sample-example.png" width="582" />
