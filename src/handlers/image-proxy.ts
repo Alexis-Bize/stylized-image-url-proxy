@@ -72,6 +72,12 @@ export const handleImage = (
 				.toBuffer()
 				.then(data => {
 					res.setHeader('Content-Type', 'image/png');
+					res.setHeader(
+						'Content-Disposition',
+						`inline; filename="${shape}-${Math.round(
+							Date.now() / 1000
+						)}.png"`
+					);
 					return res.send(data);
 				})
 				.catch(err => {
