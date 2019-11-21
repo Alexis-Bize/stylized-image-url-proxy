@@ -12,7 +12,7 @@ This repository is deployed on now.sh. At the moment only "circle", "heart" and 
 **Query parameters:**
 
 -   url {string}: Source image URL
--   format {string}: Desired format
+-   shape {string}: Desired shape (Default: circle)
 
 **Sample URL:**
 https://stylized-image-url-proxy.alexis-bize.now.sh?url=https%3A%2F%2Fmixer.com%2Fapi%2Fv1%2Fusers%2F15302225%2Favatar&shape=circle
