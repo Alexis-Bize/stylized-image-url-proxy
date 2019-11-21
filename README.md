@@ -4,7 +4,7 @@
 
 <img src="mixer-description-example.png" width="582" />
 
-This repository is deployed on now.sh. At the moment only "round" format is supported but feel free to fork this project or create a pull request if you need something else.
+This repository is deployed on now.sh. At the moment only "circle", "heart" and "star" shapes are supported but feel free to fork this project or create a pull request if you need something else.
 
 # Usage
 
@@ -15,7 +15,7 @@ This repository is deployed on now.sh. At the moment only "round" format is supp
 -   format {string}: Desired format
 
 **Sample URL:**
-https://stylized-image-url-proxy.alexis-bize.now.sh?url=https%3A%2F%2Fmixer.com%2Fapi%2Fv1%2Fusers%2F15302225%2Favatar&format=round
+https://stylized-image-url-proxy.alexis-bize.now.sh?url=https%3A%2F%2Fmixer.com%2Fapi%2Fv1%2Fusers%2F15302225%2Favatar&shape=circle
 
 **Sample output:**
 
